@@ -22,7 +22,7 @@ tags:
 
 #### Bilinshingiz kerak bo'lgan bilim
 
-- #2 "Challenge" ni tugatish yoki uni o'rganishdan oldin #1 tugatishni unutmang.
+- 2 "Challenge" ni tugatish yoki uni o'rganishdan oldin #1 tugatishni unutmang.
 
 #### Mundarija
 
