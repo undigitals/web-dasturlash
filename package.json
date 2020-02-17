@@ -3,7 +3,7 @@
   "description": "Personal website running on Gatsby, React, and Node.js.",
   "version": "1.0.1",
   "author": "Umid Negmatullayev",
-  "repository": "https://github.com/undigitals/umid.me",
+  "repository": "https://github.com/undigitals/web-dasturlash",
   "dependencies": {
     "eslint-utils": "^1.4.1",
     "gatsby": "^2.13.13",
