@@ -4,7 +4,7 @@ const config = {
   siteTitleAlt: "Umid.me | Personal Blog",
   siteLogo: "/logos/Asset-10.png",
   siteUrl: "https://www.umid.me",
-  repo: "https://github.com/undigitals/umid.me",
+  repo: "https://github.com/undigitals/web-dasturlash",
   pathPrefix: "",
   dateFromFormat: "YYYY-MM-DD",
   dateFormat: "MMMM Do, YYYY",
