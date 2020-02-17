@@ -82,7 +82,7 @@ rm index.html
 **git commands** (buruqlar)
 
 - git --version
-- git init
+- git init (yangi `git` repo(papka) yaratish )
 - git config --global user.name "umid"
 - git config --global user.email "undigitals@gmail.com"
 - git status
