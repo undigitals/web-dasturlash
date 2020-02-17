@@ -49,6 +49,7 @@ Terminal/GitBash ni ichida ishlab turadigan sistema/tarjimon. Foydalanuvchining 
 - rm -rf *papkaIsmi* (papkani o'chirish)
 - cd *papkaIsmi* (mavjud papkaga kirish)
 - ls (turgan joyingizda qanaqa papkalar borligini ko'rish)
+
 ```bash
 ls
 Documents Desktop
