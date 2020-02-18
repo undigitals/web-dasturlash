@@ -49,6 +49,7 @@ Terminal/GitBash ni ichida ishlab turadigan sistema/tarjimon. Foydalanuvchining 
 - rm -rf *papkaIsmi* (papkani o'chirish)
 - cd *papkaIsmi* (mavjud papkaga kirish)
 - ls (turgan joyingizda qanaqa papkalar borligini ko'rish)
+- cd ~ (*home* ha qaytish)
 
 ```bash
 ls
@@ -82,16 +83,17 @@ rm index.html
 
 **git commands** (buyruqlar)
 
-
+ // Ali Abdulazeez PR
+- git config --global user.name "umid" (your own GitHub account name)
+- git config --global user.email "undigitals@gmail.com" (your own GitHub email)
+  
   // Barkhayot PR
 - git --version (`git` versiyani tekshirish)
 
   // Shokhrukh9801 PR
-- git --version (komputerda git versiyasi bor yoki yo'qligini bilish mimkin)
+- git --version (komputerda git versiyasi bor yoki yo'qligini bilish mumkin)
 
 - git init (yangi `git` repo(papka) yaratish )
-- git config --global user.name "umid" (`git` accountni sozlash yoki kiritish)
-- git config --global user.email "undigitals@gmail.com"
 - git status (`git` statusni tekshirish)
 - git add filename (faylni nomlash )
 - git add . (`git` fayllarga uzgartirish kiritish)
