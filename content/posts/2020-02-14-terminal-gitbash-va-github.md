@@ -41,7 +41,7 @@ tags:
 
 Terminal/GitBash ni ichida ishlab turadigan sistema/tarjimon. Foydalanuvchining buyruqlarini olib uni sistemaning "kernel" iga yo'naltiradi. `Shell` ning juda ko'p turlari mavjud, eng mashxurlari: **Bourne Again Shell** (bash), **Z Shell** (zsh).
 
-**Shell commands** (buruqlar)
+**Shell commands** (buyruqlar)
 
 - touch *faylIsmi* (fayl yaratish)
 - rm *faylIsmi* (fayl o'chirish)
@@ -83,14 +83,21 @@ rm index.html
 
 **git commands** (buyruqlar)
 
-- git --version
-- git init (yangi `git` repo (papka) yaratish )
+ // Ali Abdulazeez PR
 - git config --global user.name "umid" (your own GitHub account name)
 - git config --global user.email "undigitals@gmail.com" (your own GitHub email)
-- git status
-- git add filename
-- git add .
-- git commit -m "message"
+  
+  // Barkhayot PR
+- git --version (`git` versiyani tekshirish)
+
+  // Shokhrukh9801 PR
+- git --version (komputerda git versiyasi bor yoki yo'qligini bilish mumkin)
+
+- git init (yangi `git` repo(papka) yaratish )
+- git status (`git` statusni tekshirish)
+- git add filename (faylni nomlash )
+- git add . (`git` fayllarga uzgartirish kiritish)
+- git commit -m "message" (buyruq berib ozgartirish kiritish)
 - git remote -v
 - git add origin 
 - git push
