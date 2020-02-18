@@ -82,7 +82,13 @@ rm index.html
 
 **git commands** (buyruqlar)
 
+
+  // Barkhayot PR
 - git --version (`git` versiyani tekshirish)
+
+  // Shokhrukh9801 PR
+- git --version (komputerda git versiyasi bor yoki yo'qligini bilish mimkin)
+
 - git init (yangi `git` repo(papka) yaratish )
 - git config --global user.name "umid" (`git` accountni sozlash yoki kiritish)
 - git config --global user.email "undigitals@gmail.com"
