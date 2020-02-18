@@ -100,6 +100,6 @@ rm index.html
 - git commit -m "message" (buyruq berib ozgartirish kiritish)
 - git remote -v
 - git add origin 
-- git push
+- git push (lokal repository ni boshqa repository ga joylash)
 - git pull
 - git checkout branchname
