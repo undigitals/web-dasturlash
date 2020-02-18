@@ -80,10 +80,10 @@ rm index.html
 
 `code` yoki `software` ni versiyasini (qismlarini) yangilash.
 
-**git commands** (buruqlar)
+**git commands** (buyruqlar)
 
 - git --version
-- git init (yangi `git` repo(papka) yaratish )
+- git init (yangi `git` repo (papka) yaratish )
 - git config --global user.name "umid"
 - git config --global user.email "undigitals@gmail.com"
 - git status
