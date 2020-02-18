@@ -17,7 +17,7 @@ tags:
 
 `Git` juda qiyinmas lekin yangi kirib kelgan odam uchun sal chalkash bo'lishi mumkin, buni osonlashtirish va eng kerakli bo'lgan qisimlarini o'rgatishga harakat qilaman.
 
-> Men juda igaist odamman, hamma o'zim qilgan proyekt(software)larimni o'zimni ismim bilan qo'yaman. Avval "Linux" (operatsion sistema), endi esa "git".
+> Men juda Egoist odamman, hamma o'zim yaratgan proyekt(software)larimni o'zimni ismim bilan nomlayman. Avval "Linux" (operatsion sistema), endi esa "git".
 > <cite>- Linus Torvalds, "Git" dasturini yaratgan dasturchi</cite>
 
 #### Bilinshingiz kerak bo'lgan bilim
