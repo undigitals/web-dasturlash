@@ -92,6 +92,8 @@ rm index.html
 
   // Shokhrukh9801 PR
 - git --version (komputerda git versiyasi bor yoki yo'qligini bilish mumkin)
+  // Baxromjon PR 
+- git --help (yordam kerak bo'lganda (misol uchun biror commanda esdan chiqqanda) ishlatialdi.  )
 
 - git init (yangi `git` repo(papka) yaratish )
 - git status (`git` statusni tekshirish)
