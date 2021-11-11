@@ -50,6 +50,10 @@ Terminal/GitBash ni ichida ishlab turadigan sistema/tarjimon. Foydalanuvchining 
 - cd *papkaIsmi* (mavjud papkaga kirish)
 - ls (turgan joyingizda qanaqa papkalar borligini ko'rish)
 - cd ~ (*home* ha qaytish)
+- clear (turgan oynani tozalab olish)
+- explorer . (windowsda *windows explorer* interfeysini ochish)
+- open . (macintoshda *finder* interfeysini ochish)
+- code . (*vscode* ni ochish)
 
 ```bash
 ls
