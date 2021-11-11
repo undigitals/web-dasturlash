@@ -83,16 +83,11 @@ rm index.html
 
 **git commands** (buyruqlar)
 
- // Ali Abdulazeez PR
 - git config --global user.name "umid" (your own GitHub account name)
 - git config --global user.email "undigitals@gmail.com" (your own GitHub email)
   
-  // Barkhayot PR
-- git --version (`git` versiyani tekshirish)
 
-  // Shokhrukh9801 PR
 - git --version (komputerda git versiyasi bor yoki yo'qligini bilish mumkin)
-  // Baxromjon PR 
 - git --help (yordam kerak bo'lganda (misol uchun biror commanda esdan chiqqanda) ishlatialdi.  )
 
 - git init (yangi `git` repo(papka) yaratish )
